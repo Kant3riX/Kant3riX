@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kant3riX
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning Java and Python.
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me ? You maybe know?
 
